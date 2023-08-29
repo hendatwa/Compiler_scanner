@@ -3,8 +3,8 @@ This Java 8 application is a basic lexical analyzer, which is responsible for lo
 
 ## Features
 ```
- -	Lexeme Recognition: The application recognizes a set of predefined lexemes, including keywords, identifiers, numbers, and symbols. 	 
- -	Token Generation: After identifying lexemes, the application generates corresponding tokens as output.
- -	Identifier Recognition: The lexer now identifies identifiers, which are sequences of letters and digits starting with a letter or an underscore. Each identified identifier is returned as a token of type IDENTIFIER.
- -	User Interface: The user interface is built using Swing, allowing users to interact with the application through a graphical interface.
+ *	Lexeme Recognition: The application recognizes a set of predefined lexemes, including keywords, identifiers, numbers, and symbols. 	 
+ *	Token Generation: After identifying lexemes, the application generates corresponding tokens as output.
+ *	Identifier Recognition: The lexer now identifies identifiers, which are sequences of letters and digits starting with a letter or an underscore. Each identified identifier is returned as a token of type IDENTIFIER.
+ *	User Interface: The user interface is built using Swing, allowing users to interact with the application through a graphical interface.
 ```
